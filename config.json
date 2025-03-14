@@ -1,0 +1,10 @@
+{
+  "name": "git-mcp-test",
+  "version": "1.0.0",
+  "description": "A test configuration file for the Git MCP demonstration",
+  "settings": {
+    "debug": false,
+    "logLevel": "info",
+    "timeout": 30
+  }
+}
